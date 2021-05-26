@@ -1,0 +1,17 @@
+{
+   "search":{
+      "list":[
+         "stone",
+         "rede",
+         "cielo",
+         "getnet",
+         "gerencianet",
+         "iugu"
+      ],
+      "sensitivekeyword":[
+         "senha",
+         "api",
+         "password"
+      ]
+   }
+}

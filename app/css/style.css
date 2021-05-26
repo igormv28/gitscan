@@ -1,0 +1,99 @@
+.primary-color {
+  /*  background-color: #0C5DA3 !important;*/
+}
+
+.btn-primary {
+  /*  background-color: #0C5DA3 !important;*/
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 21px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+table {
+  font-size: 10px;
+}
+
+/*
+.div_continuar {
+  display: none;
+}
+*/
+.coluna_fonte {
+  padding: 0px !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  width: 90%;
+  height: auto;
+  word-break: break-word;
+  overflow-y: hidden !important;
+}
+
+.pre_fonte {
+  width: 90%;
+  word-break: break-word;
+  height: auto;
+  overflow-y: hidden !important;
+  margin-bottom: 0px !important;
+  margin-left: 25px;
+}
+
+.code_fonte {
+  width: 90%;
+  word-break: break-word;
+  height: auto;
+  overflow-y: hidden !important;
+}
+
+pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap !important;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  overflow-y: hidden;
+}
+
+pre {
+  background-color: white;
+  border: 1px solid #CCC;
+  overflow-y: hidden !important;
+  font: normal normal 12px/14px "Courier New", Courier, Monospace;
+}
+
+.line-number {
+  font: normal normal 12px/14px "Courier New", Courier, Monospace;
+  color: black;
+  display: block;
+  float: left;
+}
+
+.line-number {
+  float: left;
+  margin: 0 1em 0 -1em;
+  text-align: right;
+  width: 25px;
+}
+
+.line-number span {
+  display: block;
+}
+
+.logins {
+  background-color: yellow;
+}
+
+.senhas {
+  background-color: red;
+}
+
+.filtrar {
+  background-color: pink;
+}
